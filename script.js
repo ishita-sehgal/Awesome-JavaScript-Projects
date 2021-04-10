@@ -774,6 +774,11 @@ let projectData = [
   },
 
 
+  {
+    projectName: "Bubble Particle Text",
+    projectImage: "assets/GIFs/bubble-particle.gif",
+    projectUrl: "public/bubbleParticle.html",
+  }
 
 ];
 
